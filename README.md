@@ -1,1 +1,2 @@
-# PV080_buggy_codeSeminar 12 home preparation
+# PV080_buggy_code
+# Seminar 12 home preparation
